@@ -1,5 +1,5 @@
 import markdown 
 
-md='''texttotransalte'''
+md='''texttotranslate'''
 html=markdown.markdown(md)
 print(html)
