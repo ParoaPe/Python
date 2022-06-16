@@ -1,4 +1,4 @@
-Hi there👋, This repository is for my little python scripts opensource
+Hello 👋, This repository is about my little open source python scripts.
 
 <!--Variables-->
 [![Profile last updated](https://img.shields.io/github/last-commit/paroape/paroape)](https://github.com/paroape/paroape/)
