@@ -57,8 +57,6 @@ def Download_MP3():
     base, ext = os.path.splitext(videoStream)
     new_file = base + '.mp3'
     os.rename(videoStream, new_file)
-    # Downloading the video
-    # videoStream.download(download_Folder)
 
     # Displaying the message
     messagebox.showinfo("SUCCESSFULLY MP3", "DOWNLOADED\n")
